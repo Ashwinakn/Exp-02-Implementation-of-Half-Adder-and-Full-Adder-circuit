@@ -38,33 +38,47 @@ If the output is 1, then the led glows.
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: ASHWINA K N
 RegisterNumber: 23001424
+
 ##CODE:
+
 ##HALF ADDER:
+
 ![Exp3 ha code](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/618b72db-48c2-482c-8423-369b407ad3dd)
 
 ##FULL ADDER:
+
 ![Exp3 fa code](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/6ae1e22c-21cd-4bae-8766-42e6a6e2c1a9)
 
 ##TRUTH TABLE:
+
 ##HALF ADDER:
+
 ![Exp3 truthtable (ha)](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/2ba0dbf3-588d-453a-adc3-f10def94f3e7)
 
 ##FULL ADDER:
+
 ![Exp3 truthtable (fa)](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/d1c16b47-b7de-4426-bb50-a45d063307c3)
 
 ### RTL:
+
 ### TIMING DIAGRAM:
+
 ##HALF ADDER:
+
 ![Exp3 ha RTL diagram](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/fba624fb-b428-4c71-91a1-247835d87772)
 
 ##FULL ADDER:
+
 ![Exp3 fa RTL diagram](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/da5520b8-2122-4b04-8541-db4930b0f380)
 
 ### Output:
+
 ##HALF ADDER:
+
 ![exp3 ha wave](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/8d439cdb-ec57-4933-9927-314b46c56af8)
 
 ##FULL ADDER:
+
 ![exp 3 fa wave](https://github.com/Ashwinakn/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128332/970914fc-9540-46e2-b1c2-d6aab05ce341)
 
 
